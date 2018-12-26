@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#898916" height="188.999987" id="svg_3" stroke="#898916" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="34" x="112.5" y="64.500004"/>
+  <rect fill="#898916" height="30.499999" id="svg_4" stroke="#898916" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="102.999998" x="150.000002" y="64.500001"/>
+  <rect fill="#898916" height="26.5" id="svg_7" stroke="#898916" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="67" x="149.500001" y="138.5"/>
+  <rect fill="#898916" height="190.000008" id="svg_12" stroke="#898916" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="34" x="264.5" y="64.5"/>
+  <rect fill="#898916" height="35.088573" id="svg_14" stroke="#898916" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(40.3636 329.458 112.7)" width="102.88892" x="278.013603" y="95.155643"/>
+  <rect fill="#898916" height="35.571995" id="svg_15" stroke="#898916" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-41.3294 384.5 111.791)" width="104.60651" x="332.196742" y="94.0047"/>
+  <rect fill="#898916" height="193.5" id="svg_16" stroke="#898916" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="35.500001" x="414.784884" y="62.459299"/>
+  <line fill="none" id="svg_17" stroke="#099A23" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="103.25" x2="458.25" y1="258.25" y2="259.75"/>
+ </g>
+</svg>
