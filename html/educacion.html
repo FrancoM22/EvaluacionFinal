@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Hoja de Vida</title>
+</head>
+<body>
+  <header>
+    <svg width="250" height="140">
+          <image xlink:href="../images/iniciales.svg" width="300px" height="250px">
+    </svg>
+    <h1>Hoja de Vida</h1>
+    <h2>Franco Muñoz Olmos</h2>
+    <h3>Fecha: 16/05/1996 <br/> Lugar: San Bernardo, Santiago, Chile</h3>
+  </header>
+  <nav>
+    <p><a href="../index.html">Inicio</a> | <a href="../html/educacion.html">Educación</a> | <a href="../html/experiencia.html">Experiencia</a></p>
+  </nav>
+  <section>
+    <article>
+      <h2>Educación</h2>
+      <table border="1">
+        <thead>
+         <tr>
+          <td>Año</td>
+          <td>Institución</td>
+          <td>Lugar</td>
+          <td>Culminó</td>
+         </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2004 - 2010</td>
+            <td>Escuela Manuel Magallanes Moure</td>
+            <td>San Bernardo</td>
+            <td>Si</td>
+          </tr>
+          <tr>
+            <td>2010 - 2013</td>
+            <td>Liceo Politécnico Ciencia y Tecnología</td>
+            <td>La Cisterna</td>
+            <td>Si</td>
+          </tr>
+         </tbody>
+         <tfoot>
+           <tr>
+             <td>2015 - En Curso</td>
+             <td>Universidad Nacional Andrés Bello</td>
+             <td>Providencia</td>
+             <td>No</td>
+           </tr>
+         </tfoot>
+      </table>
+    </article>
+    <br/>
+    <article>
+      <form class="" action="index.html" method="post" name="Agregar_Estudios">
+        <fieldset>
+          <legend></legend>
+          <h1>Agregar Estudios</h1>
+          <p>
+          Ingrese año: <br/>
+          <select class="" name="Año">
+            <option>2015</option>
+            <option>2016</option>
+            <option>2017</option>
+            <option>2018</option>
+          </select>
+          </p>
+          <p>
+            <label for="nombredeinstitucion">Nombre de institución</label><br/>
+            <input type="text" name="nombredeinstitucion" required>
+          </p>
+          <p>
+          Lugar: <br/>
+          <textarea name="lugar" rows="2" cols="50"></textarea>
+          </p>
+          <p>
+            <input type="submit" name="enviar">
+          </p>
+        </fieldset>
+      </form>
+    </article>
+  </section>
+  <footer>
+      <p>
+          <a href="mailto:franco.m.olmos@gmail.com">Email: franco.m.olmos@gmail.com</a> |
+          Teléfono: +569 49087299 |
+          <a href="https://www.facebook.com/francoskycorp" target="_blank">Facebook: Franco Muñoz</a>
+      </p>
+  </footer>
+  </body>
+</html>
